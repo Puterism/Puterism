@@ -3,7 +3,7 @@
 ### Shim MunSeong
 - 💻 Front-end developer, and also ☕ Coffee enthusiast.
 - ⚛️ I like to develop with React.
-- 🤔 I'm interesting in CI using the GitHub Actions and writing.
+- 🤔 I'm currently interesting in CI using the GitHub Actions and writing.
 - 🌱 I'm currently learning the JavaScript from basic with YOU DON'T KNOW JS.
 - ☕ My favorite coffee is the Koke Honey from 🇪🇹Ethiopia Yirgacheffe.
 
