@@ -6,7 +6,7 @@
 - 🔥 I can also develop with Firebase, Node.js and Django.
 - 🤔 I'm recently interested in GitHub Actions and ✏️writing.
 - 🌱 I'm currently learning the JavaScript from basic with YOU DON'T KNOW JS.
-- 📚 I'm in [Hongik University](https://www.hongik.ac.kr) and [Depromeet](https://www.depromeet.com/), the IT union club.
+- 📚 I'm in [Hongik University](https://www.hongik.ac.kr), [Depromeet](https://www.depromeet.com/), and [Woowacourse 3th](https://woowacourse.github.io/).
 - ☕ My favorite coffee is the ✨Koke Honey✨ from 🇪🇹Ethiopia Yirgacheffe.
 
 
