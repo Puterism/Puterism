@@ -2,10 +2,8 @@
 
 ### Shim MunSeong
 - 💻 Front-end developer, and also ☕Coffee enthusiast.
-- ❤️ to write code with React and Javascript.
-- 🔥 I can also develop with Firebase, Node.js and Django.
-- 🤔 I'm recently interested in GitHub Actions and ✏️writing.
-- 📚 I'm in [Hongik University](https://www.hongik.ac.kr), [Depromeet](https://www.depromeet.com/), and [Woowacourse 3th](https://woowacourse.github.io/).
+- I write code with React and Javascript.
+- I can create a simple server with Firebase, Node.js, and Django.
 
 
 <!--
