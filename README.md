@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 ### Shim MunSeong
-- 💻 Front-end developer, and also ☕Coffee enthusiast.
-- I write code with React and Javascript.
-- I can create a simple server with Firebase, Node.js, and Django.
-
+- 💻 Front-end Engineer, and also ☕Coffee enthusiast.
+- I write code with React and TypeScript.
 
 <!--
 **Puterism/Puterism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
